@@ -20,7 +20,7 @@ export default function Page() {
       "With a Gulab jamun on top",
       "What about a Jalebi?",
       "PLEASE D2 🫶🏻",
-      "But :*(",
+      "But 😭",
       "Chal na",
       "Chal na please",
       "Okay you're talking to Kanishk's ghost",
